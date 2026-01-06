@@ -43,7 +43,7 @@ a:hover {
 
 .profilepic {
     width: 150px;
-    border-radius: 40%;
+    border-radius: 30%;
     /* filter: grayscale(100%); */
 }
 
